@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Udhya1620
-- 👀 I’m interested in working in IT
-- 🌱 I’m currently learning Core Java 
-- 💞️ I’m looking to collaborate on fullstack development
-- 📫 How to reach me https://www.linkedin.com/in/udhya-kumar-2a0439228/
+### 👋 Hi, I’m @Udhya1620  
+- 👀 I’m passionate about building a career in Information Technology  
+- 🌱 Currently learning **Core Java** and sharpening my backend development skills  
+- 💻 Exploring **Full Stack Development** – from frontend design to backend logic  
+- 🤝 Open to collaborating on real-world projects and internship opportunities  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/udhya-kumar-2a0439228/)  
+
 <!---
 Udhya1620/Udhya1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
