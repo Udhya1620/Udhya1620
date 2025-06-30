@@ -1,10 +1,11 @@
 ### 👋 Hi, I’m @Udhya1620  
 
-- 👀 I’m passionate about building a career in Information Technology  
-- 🌱 Currently learning **Core Java** and sharpening my backend development skills  
-- 💻 Exploring **Full Stack Development** – from frontend design to backend logic  
-- 🧠 Practicing problem-solving regularly on [LeetCode](https://leetcode.com/u/udhyakumar162000/)  
-- 🤝 Open to collaborating on real-world projects and internship opportunities  
+- 👀 Passionate about building a career in Information Technology  
+- 🌱 Currently focused on **Core Java** and strengthening my **backend development** skills  
+- 💻 Exploring the world of **Full Stack Development** – from frontend design to backend logic  
+- 🧠 Sharpening my problem-solving skills through regular practice on [LeetCode](https://leetcode.com/u/udhyakumar162000/)  
+- 🤝 Actively open to **collaborations**, **internships**, and real-world **project opportunities**
+
   
 
 ## 🌐 Socials:
